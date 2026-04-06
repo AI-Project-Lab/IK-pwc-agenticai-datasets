@@ -16,7 +16,7 @@ Datasets for the PwC Agentic AI Capstone projects. Each folder contains the doma
 ### Option 1: Clone the entire repo
 
 ```bash
-git clone https://github.com/InfinitelyAsymptotic/ik-pwc-agenticai-datasets.git
+git clone https://github.com/AI-Project-Lab/IK-pwc-agenticai-datasets.git
 ```
 
 ### Option 2: Download a specific project's data
@@ -58,5 +58,5 @@ All datasets are **unstructured documents** — primarily `.docx`, `.pdf`, and `
 Dataset versions are tagged (e.g., `v1.0`). Pin to a specific version if you need reproducibility:
 
 ```bash
-git clone --branch v1.0 https://github.com/InfinitelyAsymptotic/ik-pwc-agenticai-datasets.git
+git clone --branch v1.0 https://github.com/AI-Project-Lab/IK-pwc-agenticai-datasets.git
 ```
